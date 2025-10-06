@@ -1,0 +1,11 @@
+
+streamlit==1.37.1
+pandas==2.2.2
+requests==2.32.3
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+folium==0.17.0
+streamlit-folium==0.23.2
+
+openai>=1.40.0
+pydantic>=2.8.2
